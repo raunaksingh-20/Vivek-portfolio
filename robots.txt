@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://viveksingh.example.com/sitemap.xml 
